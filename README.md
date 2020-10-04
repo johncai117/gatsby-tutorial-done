@@ -1,2 +1,4 @@
-# gatsby-tutorial-done
-Learning Gatsby and replicating the steps
+# Gatsby Tutorial
+Learning Gatsby in order to build my website.
+
+Follow the instructions at https://www.gatsbyjs.com/tutorial/
